@@ -2,7 +2,6 @@ package config;
 
 import io.restassured.builder.RequestSpecBuilder;
 import io.restassured.specification.RequestSpecification;
-import org.junit.Before;
 
 public class TestConfigRandomUser {
     public static RequestSpecification randoUser_requestSpec;
